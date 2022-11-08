@@ -66,7 +66,7 @@ Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio
 <a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/test_y.csv">Test_y.csv</a>   -->
 
 Demo:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/Salary_Prediction.ipynb">Jupyter Notebook/Colab Link</a>  
-Visualization:<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Train Result</a>,<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/display%20demo/test%20result.png">Test Result</a>
+Visualization:<a href="https://dreampuf.github.io/GraphvizOnline">Test Viz By Copy .dot file</a>
 <br>
 
 <div align="center">
