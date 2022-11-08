@@ -40,7 +40,7 @@ There are two tables could be merged by ID
 Resource:<a href="https://www.kaggle.com/datasets/tourist55/clothessizeprediction"><Resource Name-Kaggle> Kaggle Problem Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/dataset/cloth_size.csv">Original Dataset.csv</a>  
 Train Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/display%20demo/train_x.csv">Train_X.csv</a>,
-<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/display%20demo/train_y.csv">Train_y.csv</a>
+<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/display%20demo/train_y.csv">Train_y.csv</a>  
 Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/display%20demo/test_x.csv">Test_X.csv</a>,
 <a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_13-Cloth_Size_Prediction/main/display%20demo/test_y.csv">Test_y.csv</a>
 <br>
